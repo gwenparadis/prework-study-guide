@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 The motivation to create the prework study guide came from the need to store a number of notes to cover the multiple prework study topics. This project was built to create a one-stop webpage to review prework study topics. This prework study guide allows the bootcamp student to read and review prework study topics on one convenient and interactive webpage. By creating this application, I learned how to combine HTML, CSS, and JavaScript to create an interactive study guide of prework topics: HTML, CSS, Git, and JavaScript.
 
 ## Installation
